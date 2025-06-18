@@ -19,27 +19,21 @@
 
 Here are a few projects I've built or contributed to:
 
-### 🔧 [ERP Email Campaign System](https://github.com/quangminh/erp-campaign)
-> A custom-built backend for sending marketing emails using Zoho SMTP with HTML templates, tracking open/click via Flask-based API.
-- Stack: Python, Flask, SQL Server, SMTP, HTML
-- Features: Auto-send, Track opens, Report by campaign
+🔧 Back-end Ecommerce API
+A custom backend built for an ecommerce system with campaign-based email automation and tracking.
 
-### 📦 [Warehouse Management API](https://github.com/quangminh/warehouse-api)
-> RESTful API backend for warehouse product management with token-based authentication and admin panel integration.
-- Stack: Node.js, Express, MongoDB
-- Features: CRUD, JWT login, role-based access
+Stack: JavaScript, Node.js, MySQL, MongoDB
 
-### 📊 [Student Score System](https://github.com/quangminh/student-score-api)
-> A school project that manages students, subjects, and grades with filtering & exporting features.
-- Stack: Python, Flask, SQLite
-- Features: Import CSV, pagination, role login
+Features: Auto-send email per campaign, open/click tracking, campaign reporting, product & order APIs
 
----
+📦 Warehouse Management System
+A web-based inventory management system with secure login and admin control.
 
-## 📈 GitHub Stats
+Stack: Node.js, Express, MySQL
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quangminh&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quangminh&show_icons=true&theme=tokyonight)
+Features: Product CRUD, warehouse location logic, role-based access, JWT authentication
+
+
 
 ---
 

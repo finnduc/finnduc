@@ -1,18 +1,17 @@
-# 👋 Hello! I'm Quang Minh
+# 👋 Hello! I'm Nguyen Van Duc
 
 🎓 I'm a backend developer-in-training with a passion for clean architecture, automation, and scalable systems.  
-💡 Currently exploring cloud deployment, API development, and database optimization.
+💡 I have a passion for backend programming
 
 ---
 
 ## 🧠 About Me
-
-- 🛠️ Backend Focused | Python, Node.js, SQL, C#
-- 🌐 API Developer | RESTful services with Flask & Express.js
-- 🐘 Database Enthusiast | SQL Server, MySQL, PostgreSQL
+- 📘 Language | JavaScript, TypeScript
+- 🛠️ Backend Focused | Node.js
+- 🌐 API Developer | RESTful services Express.js
+- 🐘 Database Enthusiast | MySQL, MonggoDB
 - 🐳 Tools I Use: Docker, Git, VS Code, Postman
-- 🔄 Currently learning: JWT Auth, OAuth 2.0, Redis, Message Queues (RabbitMQ)
-- 📘 I document my learning journey here: [Learning Journal](https://github.com/quangminh/learning-journal)
+- 🔄 Currently learning: Redis, Message Queues (RabbitMQ),... 
 
 ---
 

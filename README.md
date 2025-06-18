@@ -27,8 +27,7 @@ Here are a few projects I've built or contributed to:
 ### 📦 [Warehouse Management API](https://github.com/quangminh/warehouse-api)  
 > RESTful API backend for warehouse inventory management with role-based access and secure authentication.  
 - **Stack:** Node.js, Express, MySQL  
-- **Features:** Product CRUD, warehouse zone management, JWT login, admin panel integration  
-
+- **Features:** Product CRUD, warehouse zone management, JWT login, admin panel integration 
 ---
 
 ## 🧪 Currently Learning
@@ -42,9 +41,9 @@ Here are a few projects I've built or contributed to:
 
 ## 🤝 Connect with Me
 
-- 🌐 [LinkedIn](https://linkedin.com/in/quangminh-dev)
-- 💼 [Portfolio Website](https://quangminh.dev) *(optional)*
-- 📫 Email: quangminh.backend@gmail.com
+- 🌐 [LinkedIn](https://linkedin.com/in/)
+- 💼 [Portfolio Website](https://) *(optional)*
+- 📫 Email: duckim1233@gmail.com
 
 ---
 

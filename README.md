@@ -19,21 +19,15 @@
 
 Here are a few projects I've built or contributed to:
 
-🔧 Back-end Ecommerce API
-A custom backend built for an ecommerce system with campaign-based email automation and tracking.
+### 🔧 [Back-end Ecommerce](https://github.com/quangminh/ecommerce-backend)  
+> A custom-built backend for managing products, orders, and automated email campaigns with tracking.  
+- **Stack:** JavaScript, Node.js, MySQL, MongoDB  
+- **Features:** Auto-send emails per campaign, track opens & clicks, report by campaign, product/order APIs  
 
-Stack: JavaScript, Node.js, MySQL, MongoDB
-
-Features: Auto-send email per campaign, open/click tracking, campaign reporting, product & order APIs
-
-📦 Warehouse Management System
-A web-based inventory management system with secure login and admin control.
-
-Stack: Node.js, Express, MySQL
-
-Features: Product CRUD, warehouse location logic, role-based access, JWT authentication
-
-
+### 📦 [Warehouse Management API](https://github.com/quangminh/warehouse-api)  
+> RESTful API backend for warehouse inventory management with role-based access and secure authentication.  
+- **Stack:** Node.js, Express, MySQL  
+- **Features:** Product CRUD, warehouse zone management, JWT login, admin panel integration  
 
 ---
 
